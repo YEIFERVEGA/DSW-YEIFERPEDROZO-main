@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+aside {
+    flex: 10%;
+    background-color: beige;
+    padding: 20px;
+}
+section {
+    flex: 70%;
+    background-color: rgb(177, 176, 173);
+    padding: 20px;
+
+}
+
+footer {
+    
+}
+
